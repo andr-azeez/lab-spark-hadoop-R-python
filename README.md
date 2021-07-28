@@ -9,6 +9,18 @@ cd /opt/spark/sbin
 sh start-master.sh
 ````
 
+# Hadoop
+
+<h6> Hadoop Commands </h6>
+
+````
+hadoop
+````
+
+````
+hdfs
+````
+
 
 # R
 

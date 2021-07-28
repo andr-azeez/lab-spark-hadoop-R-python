@@ -14,10 +14,12 @@ sh start-master.sh
 <h6> Hadoop Commands </h6>
 
 ````
+export PATH=/usr/local/hadoop/bin/:$PATH
 hadoop
 ````
 
 ````
+export PATH=/usr/local/hadoop/bin/:$PATH
 hdfs
 ````
 
